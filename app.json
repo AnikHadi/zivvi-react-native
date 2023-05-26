@@ -5,6 +5,7 @@
       "bundler": "metro"
     },
     "name": "zivvi",
-    "slug": "zivvi"
+    "slug": "zivvi",
+    "userInterfaceStyle": "automatic"
   }
 }
